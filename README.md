@@ -1,1 +1,1 @@
-# IMT-AVR-Diploma-Assignments
+# IMT-AVR-Diploma-C-Assignments
