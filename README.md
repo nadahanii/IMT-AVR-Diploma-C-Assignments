@@ -1,1 +1,1 @@
-# IMT-Embedded-Systems-Diploma-
+# IMT-AVR-Diploma-Assignments
